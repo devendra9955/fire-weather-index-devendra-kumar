@@ -1,4 +1,5 @@
-Fire Weather Index (FWI) Prediction System Forest fires are one of the most dangerous natural disasters that destroy wildlife, vegetation, and property.Fire Weather Index (FWI) is a numerical rating used worldwide to estimate the probability of fire occurrence based on weather conditions.
+Fire Weather Index (FWI) Prediction System  
+Forest fires are one of the most dangerous natural disasters that destroy wildlife, vegetation, and property.Fire Weather Index (FWI) is a numerical rating used worldwide to estimate the probability of fire occurrence based on weather conditions.
 
 Project Objective   
 Predict the Fire Weather Index using weather parameters.  
